@@ -1,1 +1,1 @@
-Hello world! cucu staged  // alteração da branch halloween
+Hello world! cucu staged  // alteração da branch halloween // forcei um conflito
